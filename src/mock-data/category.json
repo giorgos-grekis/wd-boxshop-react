@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "category": "Bike Saddles",
+        "src": "icon-category-saddle",
+        "demo": "demo29"
+    },
+    {
+        "id": 2,
+        "category": "Bike Pedals",
+        "src": "icon-category-pedals font-lg",
+        "demo": "demo29"
+    },
+    {
+        "id": 3,
+        "category": "Bike Frames",
+        "src": "icon-category-frames font-lg",
+        "demo": "demo29"
+    },
+    {
+        "id": 4,
+        "category": "Bike Chains",
+        "src": "icon-category-chains",
+        "demo": "demo29"
+    },
+    {
+        "id": 5,
+        "category": "Bike Tools",
+        "src": "icon-category-tools",
+        "demo": "demo29"
+    },
+    {
+        "id": 6,
+        "category": "Bags",
+        "src": "assets/images/demo2/categories/category-1.jpg",
+        "demo": "demo2"
+    },
+    {
+        "id": 7,
+        "category": "Hots",
+        "src": "assets/images/demo2/categories/category-2.jpg",
+        "demo": "demo2"
+    }
+]

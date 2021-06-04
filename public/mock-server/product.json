@@ -1,0 +1,669 @@
+[
+	{
+		"id": 1,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-5.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"discount": -27,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"category": [
+			"Watch Fashion",
+			"Pants & Denim"
+		],
+		"size": [
+			"small",
+			"medium",
+			"extra large"
+		],
+		"color": [
+			"#000",
+			"#0188cc",
+			"#81d742",
+			"#6085a5",
+			"#6085a5"
+		],
+		"variants": [
+			{
+				"name": "colors",
+				"type": [
+					{
+						"price": 88.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-1.png"
+						],
+						"color": "#6085a5",
+						"stock": 16
+					},
+					{
+						"price": 90.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-5.png"
+						],
+						"color": "#ab6e6e",
+						"stock": 16
+					},
+					{
+						"price": 99.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-3.png"
+						],
+						"color": "#b19970",
+						"stock": 16
+					},
+					{
+						"price": 90.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-4.png"
+						],
+						"color": "#000",
+						"stock": 16
+					}
+				]
+			},
+			{
+				"name": "sizes",
+				"type": [
+					{
+						"size": "S",
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-1.png"
+						],
+						"price": 88.00,
+						"stock": 16
+					},
+					{
+						"size": "M",
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-5.png"
+						],
+						"price": 90.00,
+						"stock": 16
+					},
+					{
+						"size": "L",
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-3.png"
+						],
+						"price": 99.00,
+						"stock": 16
+					},
+					{
+						"size": "XL",
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-4.png"
+						],
+						"price": 90.00,
+						"stock": 16
+					}
+				]
+			}
+		],
+		"reviewContents": [
+			{
+				"author": "John Doe",
+				"avatar": "assets/images/avatar/avatar1.jpg",
+				"date": "Novemeber 15, 2019",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
+			},
+			{
+				"author": "John Doe",
+				"avatar": "assets/images/avatar/avatar2.jpg",
+				"date": "Novemeber 15, 2019",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
+			},
+			{
+				"author": "John Doe",
+				"avatar": "assets/images/avatar/avatar3.jpg",
+				"date": "Novemeber 15, 2019",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
+			}
+		],
+		"date": "09/23/2019"
+	},
+	{
+		"id": 2,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-5.png",
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-1.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"discount": -27,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"category": [
+			"Watch Fashion",
+			"Pants & Denim"
+		],
+		"size": [
+			"small",
+			"medium",
+			"extra large"
+		],
+		"color": [
+			"#000",
+			"#0188cc",
+			"#81d742",
+			"#6085a5",
+			"#6085a5"
+		],
+		"featured": true,
+		"date": "09/25/2019"
+	},
+	{
+		"id": 3,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-2.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-1.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"discount": -27,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"category": [
+			"Watch Fashion",
+			"Pants & Denim"
+		],
+		"brand": [
+			"Adidas",
+			"Camel",
+			"Seiko",
+			"Samsung Galaxy",
+			"Sony"
+		],
+		"size": [
+			"small",
+			"medium",
+			"extra large"
+		],
+		"color": [
+			"#000",
+			"#0188cc",
+			"#81d742",
+			"#6085a5",
+			"#6085a5"
+		],
+		"top": 10,
+		"featured": true,
+		"date": "09/25/2019"
+	},
+	{
+		"id": 4,
+		"name": "Philips product",
+		"price": 15.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-5.png",
+			"assets/images/demo/products/grey/product-demo-1.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"accessories",
+			"bags",
+			"fashion"
+		],
+		"discount": -27,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"date": "09/28/2019"
+	},
+	{
+		"id": 5,
+		"name": "Philips product",
+		"price": 20.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-2.png",
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-3.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"Accessories",
+			"Watch Fashion",
+			"Tees, Knits & Polos"
+		],
+		"discount": -27,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"featured": false,
+		"date": "09/25/2019"
+	},
+	{
+		"id": 6,
+		"name": "Philips product",
+		"price": 20.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-2.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"Accessories",
+			"Watch Fashion"
+		],
+		"brand": [
+			"Seiko",
+			"Samsung Galaxy",
+			"Sony"
+		],
+		"discount": -27,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"featured": false,
+		"date": "09/30/2019"
+	},
+	{
+		"id": 7,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-2.png",
+			"assets/images/demo/products/grey/product-demo-1.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"music",
+			"sunglasses"
+		],
+		"discount": -27,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"featured": false,
+		"date": "09/25/2019"
+	},
+	{
+		"id": 8,
+		"name": "Philips product",
+		"price": 35.00,
+		"salePrice": 30.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-1.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"music",
+			"sunglasses"
+		],
+		"brand": [
+			"Seiko",
+			"Samsung Galaxy",
+			"Sony"
+		],
+		"discount": -14,
+		"sale": true,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"featured": false,
+		"date": "10/25/2019"
+	},
+	{
+		"id": 9,
+		"name": "Philips product",
+		"price": 35.00,
+		"salePrice": 30.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-2.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"accessories",
+			"shoes"
+		],
+		"discount": -14,
+		"format": 1,
+		"sale": true,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"date": "09/25/2019",
+		"featured": false
+	},
+	{
+		"id": 10,
+		"name": "Philips product",
+		"price": 16.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-5.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"category": [
+			"Accessories",
+			"Watch Fashion",
+			"Tees, Knits & Polos"
+		],
+		"discount": -10,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"featured": false,
+		"demo": "element",
+		"date": "03/25/2020",
+		"variants": [
+			{
+				"name": "color",
+				"type": [
+					{
+						"price": 16.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-1.png"
+						],
+						"stock": 16,
+						"color": "#959595"
+					},
+					{
+						"price": 20.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-5.png"
+						],
+						"stock": 16,
+						"color": "#0088cc"
+					},
+					{
+						"price": 24.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-3.png"
+						],
+						"stock": 16,
+						"color": "#ff6840"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Philips product",
+		"price": 16.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-1.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"category": [
+			"Watch Fashion",
+			"Tees, Knits & Polos"
+		],
+		"discount": -10,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"featured": false,
+		"demo": "element",
+		"date": "03/25/2020",
+		"variants": [
+			{
+				"name": "color",
+				"type": [
+					{
+						"price": 16.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-2.png"
+						],
+						"stock": 16,
+						"color": "#959595"
+					},
+					{
+						"price": 20.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-4.png"
+						],
+						"stock": 16,
+						"color": "#0088cc"
+					},
+					{
+						"price": 24.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-3.png"
+						],
+						"stock": 16,
+						"color": "#ff6840"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "Philips product",
+		"price": 188.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-2.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"category": [
+			"Accessories",
+			"Watch Fashion",
+			"Tees, Knits & Polos"
+		],
+		"discount": -10,
+		"format": 1,
+		"rating": 0,
+		"reviews": 6,
+		"top": 10,
+		"featured": true,
+		"demo": "element",
+		"date": "03/25/2020",
+		"variants": [
+			{
+				"name": "color",
+				"type": [
+					{
+						"price": 188.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-3.png"
+						],
+						"stock": 16,
+						"color": "#959595"
+					},
+					{
+						"price": 200.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-4.png"
+						],
+						"stock": 16,
+						"color": "#0088cc"
+					},
+					{
+						"price": 249.00,
+						"pictures": [
+							"assets/images/demo/products/grey/product-demo-1.png"
+						],
+						"stock": 16,
+						"color": "#ff6840"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-5.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"Tees, Knits & Polos",
+			"Pants & Denim"
+		],
+		"brand": [
+			"Adidas",
+			"Camel",
+			"Seiko",
+			"Samsung Galaxy",
+			"Sony"
+		],
+		"format": 1,
+		"rating": 4,
+		"reviews": 6,
+		"featured": true
+	},
+	{
+		"id": 14,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-4.png",
+			"assets/images/demo/products/grey/product-demo-1.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"Tees, Knits & Polos",
+			"Pants & Denim"
+		],
+		"format": 1,
+		"rating": 4,
+		"reviews": 6,
+		"featured": true
+	},
+	{
+		"id": 15,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-5.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"Accessories",
+			"Watch Fashion",
+			"Tees, Knits & Polos"
+		],
+		"format": 1,
+		"rating": 4,
+		"reviews": 6,
+		"featured": true
+	},
+	{
+		"id": 16,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-5.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"Accessories",
+			"Watch Fashion",
+			"Tees, Knits & Polos"
+		],
+		"format": 1,
+		"rating": 4,
+		"reviews": 6,
+		"featured": false,
+		"bstock": true
+	},
+	{
+		"id": 17,
+		"name": "Philips product",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/demo/products/grey/product-demo-1.png",
+			"assets/images/demo/products/grey/product-demo-5.png",
+			"assets/images/demo/products/grey/product-demo-3.png",
+			"assets/images/demo/products/grey/product-demo-4.png"
+		],
+		"shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"stock": 16,
+		"category": [
+			"Accessories",
+			"Watch Fashion",
+			"Tees, Knits & Polos"
+		],
+		"format": 1,
+		"rating": 4,
+		"reviews": 6,
+		"featured": false,
+		"bstock": true
+	}
+]

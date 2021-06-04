@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "id": 1,
+            "name": "icon-shipping",
+            "title": "ΑΜΕΣΗ ΠΑΡΑΔΟΣΗ",
+            "desc": "ΑΜΕΣΗ ΠΑΡΑΔΟΣΗ ΑΠΟΣΤΟΛΗΣ"
+        },
+        {
+            "id": 2,
+            "name": "icon-money",
+            "title": "ΕΠΩΝΥΜΑ ΠΡΟΪΟΝΤΑ ΣΕ ΜΟΝΑΔΙΚΕΣ ΤΙΜΕΣ",
+            "desc": "ΕΠΩΝΥΜΑ ΠΡΟΪΟΝΤΑ ΣΕ ΜΟΝΑΔΙΚΕΣ ΤΙΜΕΣ"
+        },
+        {
+            "id": 3,
+            "name": "icon-support",
+            "title": "ΕΠΙΣΗΜΟΙ ΑΝΤΙΠΡΟΣΩΠΟΙ",
+            "desc": "ΕΠΙΣΗΜΟΙ ΑΝΤΙΠΡΟΣΩΠΟΙ"
+        }
+    ],
+    "banner": [
+        {
+            "src": "assets/images/demo/banners/banner4.jpg",
+            "class": "primary",
+            "title": "Διπλά Κερδισμένοι",
+            "desc": "SERVICEONLINE",
+            "button": "ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ"
+        },
+        {
+            "src": "assets/images/demo/banners/banner5.jpg",
+            "class": "white",
+            "title": "Προσφορές",
+            "desc": "20% OFF",
+            "button": "ΠΡΟΪΟΝΤΑ"
+        }
+    ],
+    "bannerOther": [
+        {
+            "src": "assets/images/demo/banners/carta-pontwn.png",
+            "class": "primary",
+            "title": "Κάρτα πόντων",
+            "desc": "SERVICE",
+            "button": "ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ"
+            
+        },
+        {
+            "class": "white",
+            "title": "Προσφορές",
+            "desc": "20% OFF",
+            "button": "ΠΡΟΪΟΝΤΑ"
+        }
+    ],
+
+    "gallery": [
+        "assets/images/about/gallery1.jpg",
+        "assets/images/about/gallery2.jpg",
+        "assets/images/about/gallery3.jpg",
+        "assets/images/about/gallery4.jpg",
+        "assets/images/about/gallery2.jpg"
+    ],
+    "instagram": [
+        "assets/images/demo/instagram/instagram1.jpg",
+        "assets/images/demo/instagram/instagram2.jpg",
+        "assets/images/demo/instagram/instagram3.jpg",
+        "assets/images/demo/instagram/instagram4.jpg",
+        "assets/images/demo/instagram/instagram5.jpg",
+        "assets/images/demo/instagram/instagram6.jpg"
+    ],
+    "innerOverlayPaths": [
+        "products/default",
+        "products/horizontal",
+        "products/vertical",
+        "products/zoom",
+        "products/cart-sticky",
+        "products/accordion",
+        "products/sticky-tab",
+        "products/simple",
+        "products/sidebar-left",
+        "products/extended",
+        "products/full-width",
+        "products/grid",
+        "products/sticky-both",
+        "products/sticky-info",
+        "pages/dashboard"
+    ],
+    "partners": [
+        "assets/images/demo/logos/1.png",
+        "assets/images/demo/logos/2.png",
+        "assets/images/demo/logos/3.png",
+        "assets/images/demo/logos/4.png",
+        "assets/images/demo/logos/5.png",
+        "assets/images/demo/logos/6.png"
+    ],
+    "monthTypeOne": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+    ],
+    "monthTypeTwo": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ]
+}

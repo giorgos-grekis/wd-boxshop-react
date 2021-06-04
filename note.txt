@@ -1,0 +1,43 @@
+1.	Στα input να χρειάζεται <label> 
+
+	<label htmlFor="το id απο το input" style={{display: 'none'}}>Όνομα του Label</label>
+
+
+	
+2.	Στα link και στα button χρειάζεται κείμενο 
+	μπορεί να γίνει με το attribute title
+
+	<button title='Όνομα τίτλου'> </button>
+
+
+
+3.	Όλες οι εικόνες να έχουν alt
+
+
+
+4.	To pop-up πρέπει να μπόρεις να το διώξεις και με esc ή κάποιο άλλο πλήκτρο.
+
+
+
+
+display: 'none' is not the best practice
+https://gomakethings.com/hidden-content-for-better-a11y/#hiding-the-link
+
+
+
+Στο src/components/product/product-type-one.jsx 
+line 73 εκει αλλάζεις το hover στις εικονες προϊόντων στο carousel
+
+Activete pop-up 
+src\components\features\modal\newsletter-modal.jsx
+line 62 change isOpen = { open }  από isOpen = { false} 
+
+
+το colors, sizes αντι για brand, κωδικος, διαθεσιμοτητα είναι στο 
+src\components\pages\products\common\details\single-detail.jsx
+
+
+Το HomePage είναι στο src\components\home\index.jsx
+Το categoryPage είναι στο src\components\pages\categories\shop-full-width.jsx
+Το productPage είναι στο src\components\pages\products\full-width-product.jsx
+Το aboutPage είναι στο src\components\pages\others\about\about.jsx
